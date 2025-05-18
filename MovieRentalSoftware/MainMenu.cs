@@ -15,11 +15,24 @@ namespace MovieRentalSoftware
         public MainMenu()
         {
             InitializeComponent();
+            if (this.btnShowRentedMovies != null) // Check if the button exists
+            {
+                this.btnShowRentedMovies.Click += new System.EventHandler(this.btnShowRentedMovies_Click);
+            }
         }
 
-        private void signinButton_Click(object sender, EventArgs e)
+        private void btnListAllMovies_Click(object sender, EventArgs e)
         {
+            Form1 allMoviesForm = new Form1();
+            allMoviesForm.Show();
+            this.Hide(); 
+        }
 
+        private void btnShowRentedMovies_Click(object sender, EventArgs e)
+        {
+            Form2 rentedMoviesForm = new Form2();
+            rentedMoviesForm.Show();
+            this.Hide();
         }
     }
 }

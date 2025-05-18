@@ -14,6 +14,7 @@ C:\Users\LENOVO\Source\Repos\MovieRental\MovieRentalSoftware\obj\Debug\MovieRent
 C:\Users\LENOVO\Source\Repos\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.LoginForm.resources
 C:\Users\LENOVO\Source\Repos\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.SignInForm.resources
 C:\Users\LENOVO\Source\Repos\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.MainMenu.resources
+<<<<<<< HEAD
 C:\Users\moham\Desktop\UNI\Seconed_year\DataBase\movieRental\MovieRentalSoftware\bin\Debug\MovieRentalSoftware.exe.config
 C:\Users\moham\Desktop\UNI\Seconed_year\DataBase\movieRental\MovieRentalSoftware\bin\Debug\MovieRentalSoftware.exe
 C:\Users\moham\Desktop\UNI\Seconed_year\DataBase\movieRental\MovieRentalSoftware\bin\Debug\MovieRentalSoftware.pdb
@@ -30,3 +31,20 @@ C:\Users\moham\Desktop\UNI\Seconed_year\DataBase\movieRental\MovieRentalSoftware
 C:\Users\moham\Desktop\UNI\Seconed_year\DataBase\movieRental\MovieRentalSoftware\obj\Debug\MovieRen.D4649410.Up2Date
 C:\Users\moham\Desktop\UNI\Seconed_year\DataBase\movieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.exe
 C:\Users\moham\Desktop\UNI\Seconed_year\DataBase\movieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.pdb
+=======
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\bin\Debug\MovieRentalSoftware.exe.config
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\bin\Debug\MovieRentalSoftware.exe
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\bin\Debug\MovieRentalSoftware.pdb
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\bin\Debug\Guna.UI2.dll
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.csproj.AssemblyReference.cache
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.Form1.resources
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.LoginForm.resources
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.MainMenu.resources
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.Properties.Resources.resources
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.SignInForm.resources
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.csproj.GenerateResource.cache
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.csproj.CoreCompileInputs.cache
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRen.D4649410.Up2Date
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.exe
+C:\Users\AMER\Desktop\MovieRental\MovieRentalSoftware\obj\Debug\MovieRentalSoftware.pdb
+>>>>>>> 8b2bd284f3dbe6de286ed71dc73740c1d980308e
