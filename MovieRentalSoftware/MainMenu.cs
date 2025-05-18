@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace MovieRentalSoftware
 {
-    public partial class Form1 : Form
+    public partial class MainMenu : Form
     {
-        public Form1()
+        public MainMenu()
         {
             InitializeComponent();
         }
 
-        private void guna2Button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
+        private void signinButton_Click(object sender, EventArgs e)
         {
 
         }
