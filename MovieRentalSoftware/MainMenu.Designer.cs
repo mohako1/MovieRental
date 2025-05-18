@@ -50,7 +50,7 @@
             this.btnListAllMovies.Size = new System.Drawing.Size(328, 80);
             this.btnListAllMovies.TabIndex = 4;
             this.btnListAllMovies.Text = "List All Movies";
-            this.btnListAllMovies.Click += new System.EventHandler(this.signinButton_Click);
+            this.btnListAllMovies.Click += new System.EventHandler(this.btnListAllMovies_Click);
             // 
             // btnShowRentedMovies
             // 

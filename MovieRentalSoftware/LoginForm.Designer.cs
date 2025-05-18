@@ -31,6 +31,7 @@
             this.txtLoginName = new Guna.UI2.WinForms.Guna2TextBox();
             this.btnLoginSubmit = new Guna.UI2.WinForms.Guna2Button();
             this.txtLoginPassword = new Guna.UI2.WinForms.Guna2TextBox();
+            this.btnSignUp = new Guna.UI2.WinForms.Guna2Button();
             this.SuspendLayout();
             // 
             // txtLoginName
@@ -103,12 +104,33 @@
             this.txtLoginPassword.TabIndex = 10;
             this.txtLoginPassword.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
+            // btnSignUp
+            // 
+            this.btnSignUp.BorderColor = System.Drawing.Color.DimGray;
+            this.btnSignUp.BorderRadius = 5;
+            this.btnSignUp.BorderThickness = 2;
+            this.btnSignUp.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnSignUp.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnSignUp.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnSignUp.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnSignUp.FillColor = System.Drawing.Color.LightGray;
+            this.btnSignUp.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold);
+            this.btnSignUp.ForeColor = System.Drawing.Color.Black;
+            this.btnSignUp.Location = new System.Drawing.Point(298, 350);
+            this.btnSignUp.Name = "btnSignUp";
+            this.btnSignUp.Size = new System.Drawing.Size(191, 51);
+            this.btnSignUp.TabIndex = 11;
+            this.btnSignUp.Text = "Sign Up";
+            this.btnSignUp.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
+            this.btnSignUp.Click += new System.EventHandler(this.btnSignUp_Click);
+            // 
             // LoginForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnSignUp);
             this.Controls.Add(this.txtLoginPassword);
             this.Controls.Add(this.btnLoginSubmit);
             this.Controls.Add(this.txtLoginName);
@@ -122,5 +144,6 @@
         private Guna.UI2.WinForms.Guna2TextBox txtLoginName;
         private Guna.UI2.WinForms.Guna2Button btnLoginSubmit;
         private Guna.UI2.WinForms.Guna2TextBox txtLoginPassword;
+        private Guna.UI2.WinForms.Guna2Button btnSignUp;
     }
 }
