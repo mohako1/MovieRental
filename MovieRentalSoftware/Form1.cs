@@ -16,5 +16,32 @@ namespace MovieRentalSoftware
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2TextBox1_TextChanged(object sender, EventArgs e)
+        {
+          
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void login_Click(object sender, EventArgs e)
+        {
+            var loginForm = new LoginForm();
+            loginForm.ShowDialog();
+        }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            var signinform = new SignInForm();
+            signinform.ShowDialog();
+        }
     }
 }
