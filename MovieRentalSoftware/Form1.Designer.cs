@@ -206,6 +206,7 @@
         private Guna.UI2.WinForms.Guna2Button btnBackToMainMenu;
         private Guna.UI2.WinForms.Guna2ShadowPanel guna2ShadowPanel1;
         private Guna.UI2.WinForms.Guna2Button btnRentMovie;
+
     }
 }
 
